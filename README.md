@@ -1,6 +1,6 @@
 # mindspark-7-team-why-axis
 
-Data source: https://osmhhelp.org/research\\
+Data source: https://osmhhelp.org/research \\
 With more than 80% of U.S. workers reporting mental health challenges, and 54% of HR and benefits leaders reporting that their employees have higher expectations for mental health support, mental health benefits will continue to be key to workforce strategy in the tech industry
 
 According to a survey conducted by Open-source mental health from 2014 to 2021 we found that approximately 1 in 2 people who need mental health are not seeking any kind of treatment due to various social stigmas and personal deterrents
